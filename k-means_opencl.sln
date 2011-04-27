@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "oclReduction", "oclReduction\oclReduction_vs2010.vcxproj", "{869A144C-A321-4583-AD1A-953F98A3C901}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenCL_example", "OpenCL_example\OpenCL_example.vcxproj", "{D497C2AB-F545-4AC9-A59E-6DC70D81C24F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +21,14 @@ Global
 		{869A144C-A321-4583-AD1A-953F98A3C901}.Release|Win32.Build.0 = Release|Win32
 		{869A144C-A321-4583-AD1A-953F98A3C901}.Release|x64.ActiveCfg = Release|x64
 		{869A144C-A321-4583-AD1A-953F98A3C901}.Release|x64.Build.0 = Release|x64
+		{D497C2AB-F545-4AC9-A59E-6DC70D81C24F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D497C2AB-F545-4AC9-A59E-6DC70D81C24F}.Debug|Win32.Build.0 = Debug|Win32
+		{D497C2AB-F545-4AC9-A59E-6DC70D81C24F}.Debug|x64.ActiveCfg = Debug|x64
+		{D497C2AB-F545-4AC9-A59E-6DC70D81C24F}.Debug|x64.Build.0 = Debug|x64
+		{D497C2AB-F545-4AC9-A59E-6DC70D81C24F}.Release|Win32.ActiveCfg = Release|Win32
+		{D497C2AB-F545-4AC9-A59E-6DC70D81C24F}.Release|Win32.Build.0 = Release|Win32
+		{D497C2AB-F545-4AC9-A59E-6DC70D81C24F}.Release|x64.ActiveCfg = Release|x64
+		{D497C2AB-F545-4AC9-A59E-6DC70D81C24F}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
